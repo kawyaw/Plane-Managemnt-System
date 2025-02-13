@@ -1,0 +1,7 @@
+Row: 1
+Seat: 3
+Price: 200.0
+Person Infornation:
+Name: KJKJHG
+Surname: BHYTFUBBX
+Email: POJIHHKBH

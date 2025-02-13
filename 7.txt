@@ -1,0 +1,7 @@
+Row: A
+Seat: 7
+Price: 150.0
+Person Infornation:
+Name: kjnuhgtugyihyx
+Surname: jbugctyftgi
+Email: jhbufryryug

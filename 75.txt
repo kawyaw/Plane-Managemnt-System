@@ -1,0 +1,7 @@
+Row: A
+Seat: 10
+Price: 180.0
+Person Infornation:
+Name: KXJDJJEI
+Surname: KCMKFVNIEFV
+Email: ;DKCJCNIEJCNEC

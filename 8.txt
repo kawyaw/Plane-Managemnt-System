@@ -1,0 +1,7 @@
+Row: 0
+Seat: 8
+Price: 150.0
+Person Infornation:
+Name: DCERVETVE
+Surname: EFVBBRBHN
+Email: NTJMTMNHTGH

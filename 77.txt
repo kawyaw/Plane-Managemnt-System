@@ -1,0 +1,7 @@
+Row: A
+Seat: 12
+Price: 180.0
+Person Infornation:
+Name: defveve
+Surname: efvevt
+Email: efvtbtb4

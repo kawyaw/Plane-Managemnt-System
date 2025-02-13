@@ -1,0 +1,7 @@
+Row: B
+Seat: 10
+Price: 180.0
+Person Infornation:
+Name: Bddfrr
+Surname: dfvervrt
+Email: fevtgrgr

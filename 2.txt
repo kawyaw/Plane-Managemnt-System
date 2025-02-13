@@ -1,0 +1,7 @@
+Row: 0
+Seat: 2
+Price: 200.0
+Person Infornation:
+Name: kawya
+Surname: wickramasinghe
+Email: kajhbbwggw

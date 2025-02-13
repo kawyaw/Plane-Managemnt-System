@@ -1,0 +1,7 @@
+Row: A
+Seat: 4
+Price: 200.0
+Person Infornation:
+Name: dfetgtg
+Surname: vrbryh
+Email: rbrtntt
